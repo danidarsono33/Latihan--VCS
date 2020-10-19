@@ -187,7 +187,8 @@ $ git push -u origin master
 
 • Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
-!GAMABAR 19
+![19](https://user-images.githubusercontent.com/73014427/96405033-8bd49280-1206-11eb-99bb-eb840b9e377e.png)
+
 
 pada repositorinya.
 Melihat hasilnya pada server repository
