@@ -126,7 +126,8 @@ Commit (Menyimpan perubahan ke database)
 
 $ git commit -m “Bahasa Pemrograman Repository Lokal LatihanVCS"
 
-!GAMBAR 12
+![12](https://user-images.githubusercontent.com/73014427/96403409-870ddf80-1202-11eb-8b0c-74e309711b76.png)
+
 
 • Perubahan berhasil disimpan.
 
