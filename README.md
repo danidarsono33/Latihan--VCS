@@ -199,7 +199,8 @@ Melihat hasilnya pada server repository
 ![20](https://user-images.githubusercontent.com/73014427/96405103-b45c8c80-1206-11eb-8c60-ca28022f5061.png)
 
 
-!GAMBAR 21
+![21](https://user-images.githubusercontent.com/73014427/96405268-12896f80-1207-11eb-8b41-51d53d55d3be.png)
+
 
 Clone Repository
 
