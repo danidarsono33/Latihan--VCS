@@ -145,7 +145,8 @@ Membuat repository server
 
 • Dari menu (icon +) klik New Repository
 
-!GAMBAR 14
+![14](https://user-images.githubusercontent.com/73014427/96403574-f4ba0b80-1202-11eb-976d-68f9341dcaa6.png)
+
 
 Membuat repository server
 
