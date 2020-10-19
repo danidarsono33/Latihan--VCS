@@ -117,7 +117,8 @@ $ git add README. md
 
 • File README.md berhasil ditambahkan
 
-!GAMBAR 11
+![11](https://user-images.githubusercontent.com/73014427/96403324-4b731580-1202-11eb-9849-f8aa0d79ed62.png)
+
 
 Commit (Menyimpan perubahan ke database)
 
