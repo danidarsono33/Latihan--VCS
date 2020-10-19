@@ -153,7 +153,8 @@ Membuat repository server
 • Isi nama repositorynya, misal: LatihanVCS.
 
 
-!GAMBAR 15
+![15](https://user-images.githubusercontent.com/73014427/96403670-2337e680-1203-11eb-9662-c49b7c0b364f.png)
+
 
 • lalu klik tombol Create repository
 
