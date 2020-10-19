@@ -131,7 +131,9 @@ $ git commit -m “Bahasa Pemrograman Repository Lokal LatihanVCS"
 
 • Perubahan berhasil disimpan.
 
-!GAMBAR 13
+![13](https://user-images.githubusercontent.com/73014427/96403481-bd4b5f00-1202-11eb-9b1a-a9df3c990ecb.png)
+
+
 
 Membuat repository server
 
