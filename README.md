@@ -68,7 +68,7 @@ $ mkdir Latihan-VCS
 $ cd Latihan-VCS
 
  
-! GAMBAR 6
+![6](https://user-images.githubusercontent.com/73014427/96402620-92600b80-1200-11eb-9996-5182bb53277c.png)
 
 
 
