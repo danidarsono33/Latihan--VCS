@@ -169,7 +169,8 @@ digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat
 
 Alamat url kita
 
-!GAMBAR 17
+![17](https://user-images.githubusercontent.com/73014427/96404808-05b84c00-1206-11eb-9571-564b9c06487c.png)
+
 
 • Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url]
 
