@@ -208,7 +208,7 @@ Clone Repository
 
 • Untuk melakukan cloning, gunakan perintah git clone [url]
 
-$ git clone https://github.com/danidarsono33/Latihan-VCS.git
+$ git clone https://github.com/danidarsono33/Latihan--VCS.git
 
 ![22](https://user-images.githubusercontent.com/73014427/96405433-77dd6080-1207-11eb-94ba-505e87707a95.png)
 
