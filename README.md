@@ -24,7 +24,9 @@ Instalasi Git
 
 • Selamat, Git sudah terinstal di Windows. Untuk mencobanya, silahkan buka CMD atau PowerShell, kemudian ketik perintah
 
-!GAMBAR 3
+
+![3](https://user-images.githubusercontent.com/73014427/96397889-b61d5480-11f4-11eb-95fb-61f8be212845.png)
+
 
 git --version
 Menambahkan Global Config
