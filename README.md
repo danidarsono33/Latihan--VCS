@@ -101,7 +101,7 @@ Menambahkan File baru pada repository
 
 $ echo “# Latihan-VCS” >> README. md
 
-!GAMBAR 9
+![9](https://user-images.githubusercontent.com/73014427/96403191-e15a7080-1201-11eb-97fa-d1e92998c952.png)
 
 • File README.md berhasil dibuat.
 
