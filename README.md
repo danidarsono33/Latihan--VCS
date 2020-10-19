@@ -58,8 +58,10 @@ Membuat Reposiory Local
 $ mkdir Latihan-VCS
 
 $ cd Latihan-VCS
+
  
-!GAMBAR 5
+![5](https://user-images.githubusercontent.com/73014427/96400127-2d091c00-11fa-11eb-93b0-43db6b2a43db.png)
+
 
 • Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)
 
