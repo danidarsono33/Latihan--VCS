@@ -43,7 +43,9 @@ $ git config --global user. name “nama_user”
 
 $ git config --global user. email “nama_user”
 
-!GAMBAR 4
+
+![4](https://user-images.githubusercontent.com/73014427/96398017-0694b200-11f5-11eb-8eb4-eb5730481d34.png)
+
 
 Membuat Reposiory Local
 
