@@ -51,8 +51,7 @@ $ git config --global user. name “nama_user”
 $ git config --global user. email “nama_user”
 
 
-![4](https://user-images.githubusercontent.com/73014427/96398017-0694b200-11f5-11eb-8eb4-eb5730481d34.png)
-
+!GAMBAR 5
 
 Membuat Reposiory Local
 
@@ -67,7 +66,8 @@ $ mkdir Latihan-VCS
 $ cd Latihan-VCS
 
  
-![5](https://user-images.githubusercontent.com/73014427/96400127-2d091c00-11fa-11eb-93b0-43db6b2a43db.png)
+! GAMBAR 6
+
 
 
 • Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)
@@ -80,13 +80,12 @@ Membuat Reposiory Local
 
 $ git init
 
-![6](https://user-images.githubusercontent.com/73014427/96400340-a7d23700-11fa-11eb-9669-60adbbc28f99.png)
+!GAMBAR 7
 
 
 • Repository baru berhasil di inisialisasi, dengan terbentuknya satu Direktori hidden dengan nama .git 
 
-![7](https://user-images.githubusercontent.com/73014427/96400445-f089f000-11fa-11eb-912e-e7a3ebf5d735.png)
-
+!GAMBAR 8
 • Pada direktori tersebut, semua perubahan pada working directory akan disimpan.
 
 Menambahkan File baru pada repository
@@ -97,11 +96,11 @@ Menambahkan File baru pada repository
 
 $ echo “# Latihan-VCS” >> README. md
 
-![8](https://user-images.githubusercontent.com/73014427/96400523-229b5200-11fb-11eb-93a5-a8fd4f5832b4.png)
+!GAMBAR 9
 
 • File README.md berhasil dibuat.
 
-!GAMBAR 9
+!GAMBAR10
 
 
 Menambahkan File baru pada repository
@@ -112,7 +111,7 @@ $ git add README. md
 
 • File README.md berhasil ditambahkan
 
-!GAMBAR 10
+!GAMBAR 11
 
 Commit (Menyimpan perubahan ke database)
 
@@ -120,11 +119,11 @@ Commit (Menyimpan perubahan ke database)
 
 $ git commit -m “Bahasa Pemrograman Repository Lokal LatihanVCS"
 
-!GAMBAR 11
+!GAMBAR 12
 
 • Perubahan berhasil disimpan.
 
-!GAMBAR 12
+!GAMBAR 13
 
 Membuat repository server
 
@@ -136,19 +135,19 @@ Membuat repository server
 
 • Dari menu (icon +) klik New Repository
 
-!GAMBAR 13
+!GAMBAR 14
 
 Membuat repository server
 
 • Isi nama repositorynya, misal: LatihanVCS.
 
 
-!GAMBAR 14
+!GAMBAR 15
 
 • lalu klik tombol Create repository
 
 
-!GAMBAR 15
+!GAMBAR 16
 
 Menambahkan Remote Repository
 
@@ -158,14 +157,14 @@ digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat
 
 Alamat url kita
 
-!GAMBAR 16
+!GAMBAR 17
 
 • Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url]
 
 $ git remote add origin https://github.com/danidarsono33/Latihan-VCS.git
 
 
-!GAMBAR 17
+!GAMBAR 18
 
 Push (Mengirim perubahan ke server)
 
@@ -175,7 +174,7 @@ $ git push -u origin master
 
 • Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
-!GAMABAR 18
+!GAMABAR 19
 
 pada repositorinya.
 Melihat hasilnya pada server repository
@@ -183,9 +182,9 @@ Melihat hasilnya pada server repository
 • Buka laman github.com, arahkan
 • Maka perubahan akan terlihat pada laman tersebut.
 
-!GAMBAR 19
-
 !GAMBAR 20
+
+!GAMBAR 21
 
 Clone Repository
 
@@ -195,7 +194,7 @@ Clone Repository
 
 $ git clone https://github.com/danidarsono33/Latihan-VCS.git
 
-!GAMBAR 21
+!GAMBAR 22
 
 
 
