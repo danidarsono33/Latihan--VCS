@@ -14,7 +14,8 @@ Instalasi Git
 
 • Download Git, buka website resminya Git (git-scm.com).
  
-! GAMBAR 1
+![1](https://user-images.githubusercontent.com/73014427/96397269-625e3b80-11f3-11eb-83b9-890209c0f048.png)
+
 
 • Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit. 01_download git 02_istall git 03_git bash
  
