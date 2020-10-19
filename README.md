@@ -196,7 +196,8 @@ Melihat hasilnya pada server repository
 • Buka laman github.com, arahkan
 • Maka perubahan akan terlihat pada laman tersebut.
 
-!GAMBAR 20
+![20](https://user-images.githubusercontent.com/73014427/96405103-b45c8c80-1206-11eb-8c60-ca28022f5061.png)
+
 
 !GAMBAR 21
 
