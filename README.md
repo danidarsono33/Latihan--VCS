@@ -24,12 +24,18 @@ Instalasi Git
 
 
 
+![3](https://user-images.githubusercontent.com/73014427/96400866-195eb500-11fc-11eb-889f-c8aaf88706b6.png)
+
+
 
 • Selamat, Git sudah terinstal di Windows. Untuk mencobanya, silahkan buka CMD atau PowerShell, kemudian ketik perintah
 
 
 
 git --version
+
+GAMABAR 4
+
 Menambahkan Global Config
 
 • Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi user.name dan user.email
