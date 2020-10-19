@@ -34,7 +34,9 @@ Instalasi Git
 
 git --version
 
-GAMABAR 4
+![4](https://user-images.githubusercontent.com/73014427/96402468-28476680-1200-11eb-9b66-5e84d08bab9e.png)
+
+
 
 Menambahkan Global Config
 
