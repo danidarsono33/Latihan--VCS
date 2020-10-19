@@ -17,15 +17,16 @@ Instalasi Git
 ![1](https://user-images.githubusercontent.com/73014427/96397269-625e3b80-11f3-11eb-83b9-890209c0f048.png)
 
 
-• Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit. 01_download git 02_istall git 03_git bash
+• Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
 
 ![2](https://user-images.githubusercontent.com/73014427/96397756-6179d980-11f4-11eb-9f12-5866977ba06f.png)
 
 
+
+
+
 • Selamat, Git sudah terinstal di Windows. Untuk mencobanya, silahkan buka CMD atau PowerShell, kemudian ketik perintah
 
-
-![3](https://user-images.githubusercontent.com/73014427/96397889-b61d5480-11f4-11eb-95fb-61f8be212845.png)
 
 
 git --version
@@ -90,7 +91,7 @@ Menambahkan File baru pada repository
 
 $ echo “# Latihan-VCS” >> README. md
 
-!GAMBAR 8
+![8](https://user-images.githubusercontent.com/73014427/96400523-229b5200-11fb-11eb-93a5-a8fd4f5832b4.png)
 
 • File README.md berhasil dibuat.
 
