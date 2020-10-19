@@ -78,7 +78,7 @@ $ git init
 
 • Repository baru berhasil di inisialisasi, dengan terbentuknya satu Direktori hidden dengan nama .git 
 
-!GAMBAR 7
+![7](https://user-images.githubusercontent.com/73014427/96400445-f089f000-11fa-11eb-912e-e7a3ebf5d735.png)
 
 • Pada direktori tersebut, semua perubahan pada working directory akan disimpan.
 
