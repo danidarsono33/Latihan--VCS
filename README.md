@@ -159,7 +159,7 @@ Membuat repository server
 • lalu klik tombol Create repository
 
 
-!GAMBAR 16
+![16](https://user-images.githubusercontent.com/73014427/96404701-c689fb00-1205-11eb-8215-45dff73dc0c0.png)
 
 Menambahkan Remote Repository
 
