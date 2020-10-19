@@ -177,7 +177,7 @@ Alamat url kita
 $ git remote add origin https://github.com/danidarsono33/Latihan-VCS.git
 
 
-!GAMBAR 18
+![18](https://user-images.githubusercontent.com/73014427/96404885-34cebd80-1206-11eb-8f6a-31c223c613c1.png)
 
 Push (Mengirim perubahan ke server)
 
