@@ -88,7 +88,9 @@ $ git init
 
 • Repository baru berhasil di inisialisasi, dengan terbentuknya satu Direktori hidden dengan nama .git 
 
-!GAMBAR 8
+![8](https://user-images.githubusercontent.com/73014427/96402895-31850300-1201-11eb-9a4e-e7e147854b4c.png)
+
+
 • Pada direktori tersebut, semua perubahan pada working directory akan disimpan.
 
 Menambahkan File baru pada repository
