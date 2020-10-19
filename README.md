@@ -210,7 +210,7 @@ Clone Repository
 
 $ git clone https://github.com/danidarsono33/Latihan-VCS.git
 
-!GAMBAR 22
+![22](https://user-images.githubusercontent.com/73014427/96405433-77dd6080-1207-11eb-94ba-505e87707a95.png)
 
 
 
