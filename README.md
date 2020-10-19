@@ -82,7 +82,8 @@ Membuat Reposiory Local
 
 $ git init
 
-!GAMBAR 7
+![7](https://user-images.githubusercontent.com/73014427/96402805-026e9180-1201-11eb-9a9e-074f67bcb9f1.png)
+
 
 
 • Repository baru berhasil di inisialisasi, dengan terbentuknya satu Direktori hidden dengan nama .git 
